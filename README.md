@@ -12,6 +12,8 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 
+- [Entendendo o projeto](#entendendo-o-projeto)
+
 - [Funcionalidades](#funcionalidades)
 
 - [Aplicação](#aplicação)
@@ -27,7 +29,17 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Projeto em desenvolvimento 
+ Revisar conceitos úteis para testes manuais no mundo ágil, bem como compreender e praticar atividades relativas ao dia a dia de um QA , 
+com foco em testes manuais funcionais
+
+## Entendendo o projeto 
+Ideia para o projeto : Uma loja virtual - SwagLabs Shopping
+
+<p align="justify">
+:heavy_check_mark: Metodologia ágil-Scrum 
+:heavy_check_mark: Gerenciamento de projeto : JIRA 
+:heavy_check_mark: Colaboração/Documentação : Confluence
+
 
 ## Funcionalidades
 
